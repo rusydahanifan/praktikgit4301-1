@@ -7,4 +7,4 @@ mempunyai 3 folder (css, js, image). Tambahkan 1 file gambar dengan ukuran max 1
 
 # Daftar kontributor:
 - Pramuko Aji
-- Reggi Fachri
+- Muh rusyda hanifan
